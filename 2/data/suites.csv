@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Aug 23 11:37:41 GMT 2024","Fri Aug 23 11:37:41 GMT 2024","41","","petstoreTest","","","","test_get_pet",""
+"passed","Fri Aug 23 11:37:41 GMT 2024","Fri Aug 23 11:37:41 GMT 2024","132","","petstoreTest","","","","test_update_pet",""
+"passed","Fri Aug 23 11:37:41 GMT 2024","Fri Aug 23 11:37:41 GMT 2024","155","","petstoreTest","","","","test_create_pet",""
+"passed","Fri Aug 23 11:37:41 GMT 2024","Fri Aug 23 11:37:41 GMT 2024","39","","petstoreTest","","","","test_delete_pet",""
