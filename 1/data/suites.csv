@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Fri Aug 23 11:29:22 GMT 2024","Fri Aug 23 11:29:23 GMT 2024","308","","petstoreTest","","","","test_delete_pet[345678]",""
+"passed","Fri Aug 23 11:29:21 GMT 2024","Fri Aug 23 11:29:22 GMT 2024","319","","petstoreTest","","","","test_update_pet",""
+"passed","Fri Aug 23 11:29:21 GMT 2024","Fri Aug 23 11:29:21 GMT 2024","299","","petstoreTest","","","","test_create_pet",""
+"passed","Fri Aug 23 11:29:22 GMT 2024","Fri Aug 23 11:29:22 GMT 2024","298","","petstoreTest","","","","test_delete_pet[123456]",""
+"passed","Fri Aug 23 11:29:21 GMT 2024","Fri Aug 23 11:29:21 GMT 2024","285","","petstoreTest","","","","test_get_pet",""
+"failed","Fri Aug 23 11:29:22 GMT 2024","Fri Aug 23 11:29:22 GMT 2024","455","","petstoreTest","","","","test_delete_pet[789012]",""
