@@ -105,8 +105,8 @@ def test_delete_pet():
 get_response = requests.get(f"{BASE_URL}/{pet_data['id']}")
 assert get_response.status_code == 404
 
-#@pytest.mark.parametrize("pet_id", [123456, 789012, 345678])
-#def test_delete_pet(pet_id):
-   # response = requests.delete(f"{BASE_URL}/{pet_id}")
-    #assert response.status_code == 200
+@pytest.mark.parametrize("pet_id", [123456, 789012, 345678])
+def test_delete_pet(pet_id):
+    response = requests.delete(f"{BASE_URL}/{pet_id}")
+    assert response.status_code == 200
 
